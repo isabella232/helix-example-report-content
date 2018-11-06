@@ -1,8 +1,4 @@
 
-# Example Annual report
-
-[header]: images/work-harder.jpg
-
-![Header Image][header]
+# Example Annual report (content)
 
 This is the content for the example annual report based on helix.
