@@ -1,3 +1,8 @@
+---
+component: Article
+---
+
+
 Example Annual Report Content
 ===
 
