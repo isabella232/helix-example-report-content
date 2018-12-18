@@ -1,4 +1,3 @@
-
-# Example Annual report (content)
+# Footer
 
 This is the content for the example annual report based on helix.
